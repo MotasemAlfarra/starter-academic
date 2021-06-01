@@ -28,15 +28,15 @@ organizations:
     url: https://www.kaust.edu.sa/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Electrical and Computer Engineering
+      institution: KAUST
+      year: 2025
     - course: MEng in Electrical Engineering
       institution: KAUST
       year: 2020
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Electrical Engineering
+      institution: Kuwait University
+      year: 2014
 email: ""
 superuser: true
 highlight_name: false
