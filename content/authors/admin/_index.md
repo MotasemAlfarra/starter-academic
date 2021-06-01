@@ -31,7 +31,7 @@ education:
     - course: PhD in Electrical and Computer Engineering
       institution: KAUST
       year: 2025
-    - course: MEng in Electrical Engineering
+    - course: MSc in Electrical Engineering
       institution: KAUST
       year: 2020
     - course: BSc in Electrical Engineering
