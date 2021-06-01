@@ -13,13 +13,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MotassimF
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=caAyffEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MotasemAlfarra
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -37,7 +37,7 @@ education:
     - course: BSc in Electrical Engineering
       institution: Kuwait University
       year: 2014
-email: ""
+email: motasem.alfarra@kaust.edu.sa
 superuser: true
 highlight_name: false
 ---
