@@ -43,7 +43,7 @@ summary: We replace the first convolutional layer in deep neural networks with a
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
