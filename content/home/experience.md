@@ -25,7 +25,7 @@ experience:
   - title: Research Visit
     company: University of Oxford
     company_url: https://www.ox.ac.uk/
-    company_logo: ''
+    company_logo: org-x
     location: Oxford
     date_start: '2021-10'
     date_end: Present
