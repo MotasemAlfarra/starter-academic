@@ -41,7 +41,7 @@ email: motasem.alfarra@kaust.edu.sa
 superuser: true
 highlight_name: false
 ---
-I am a Ph.D. student at KAUST in Saudi Arabia. I am currently focused on assessing and enhancing the robustness of deep neural networks. I am part of the Image and Video Understanding Lab (IVUL) advised by Prof. Bernard Ghanem. I received my MSc degree in Electical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. My main research interests are building robust neural networks and leveraging robust models for different applications. In general, I am interested in computer vision and machine learning.
+I am a Ph.D. student at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by Prof. Bernard Ghanem. I obtained my M.Sc degree in Electical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
