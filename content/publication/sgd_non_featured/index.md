@@ -6,10 +6,10 @@ title: "Adaptive Learning of the Optimal Batch Size of SGD"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Slavom\'ir Hanzely
+- Slavomir Hanzely
 - Alyazeed Albasyoni
 - Bernard Ghanem
-- Peter Richt\'arik
+- Peter Richtarik
 
 # Author notes (optional)
 author_notes: ''
