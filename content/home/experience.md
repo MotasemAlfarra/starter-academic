@@ -43,7 +43,7 @@ experience:
   - title: Research Assistant
     company: Kuwait University
     company_url: http://kuweb.ku.edu.kw/ku/index.htm
-    company_logo: ku
+    company_logo: kaust
     location: Kuwait
     date_start: '2017-07-01'
     date_end: '2018-05-30'
