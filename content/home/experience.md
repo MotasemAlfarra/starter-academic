@@ -29,12 +29,7 @@ experience:
     location: Oxford, UK
     date_start: '2021-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: ''
         
   - title: Professor of Semiconductor Physics
     company: University X
