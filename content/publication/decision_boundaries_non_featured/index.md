@@ -1,5 +1,5 @@
 ---
-title: "Rethinking Clustering for Robustness"
+title: "On the Decision Boundaries of Neural Networks: A Tropical Geometry Perspective"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
