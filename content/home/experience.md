@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: ''
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Teacher Assistant
+    company: KAUST
+    company_url: https://www.kaust.edu.sa/en
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Saudi Arabia
+    date_start: '2020-01-01'
+    date_end: '2020-05-30'
+    description: I was a TA for the Ph.D course "Intruduction to Computer Vision".
 
 design:
   columns: '2'
