@@ -12,9 +12,7 @@ authors:
 - Peter Richt\'arik
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+author_notes: ''
 
 date: "2020-01-01T00:00:00Z"
 doi: ""
