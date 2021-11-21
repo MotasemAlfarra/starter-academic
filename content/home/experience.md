@@ -34,7 +34,7 @@ experience:
   - title: Teacher Assistant
     company: KAUST
     company_url: https://www.kaust.edu.sa/en
-    company_logo: org-x
+    company_logo: kaust
     location: Saudi Arabia
     date_start: '2020-01-01'
     date_end: '2020-05-30'
