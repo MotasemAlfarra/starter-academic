@@ -36,9 +36,10 @@ publication: In *European Conference in Computer Vision*
 publication_short: In *ECCV*
 
 abstract: We revisit the benefits of merging classical vision concepts with deep learning models. In particular, we explore the effect on robustness against adversarial attacks of replacing the first layers of various deep architectures with Gabor layers, i.e. convolutional layers with filters that are based on learnable Gabor parameters. We observe that architectures enhanced with Gabor layers gain a consistent boost in robustness over regular models and preserve high generalizing test performance, even though these layers come at a negligible increase in the number of parameters. We then exploit the closed form expression of Gabor filters to derive an expression for a Lipschitz constant of such filters, and harness this theoretical result to develop a regularizer we use during training to further enhance network robustness. We conduct extensive experiments with various architectures (LeNet, AlexNet, VGG16 and WideResNet) on several datasets (MNIST, SVHN, CIFAR10 and CIFAR100) and demonstrate large empirical robustness gains. Furthermore, we experimentally show how our regularizer provides consistent robustness improvements.
-photos
+
 # Summary. An optional shortened abstract.
-summary: ""
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -50,7 +51,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-58545-7_26
-url_code: https://github.com/BCV-Uniandes/Gabor_Layers_for_Robustness
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -70,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:[]
+projects:
 - example
 
 # Slides (optional).
@@ -78,7 +79,7 @@ projects:[]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
 {{% callout note %}}
