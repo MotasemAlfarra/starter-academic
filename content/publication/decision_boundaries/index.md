@@ -8,7 +8,7 @@ authors:
 - admin
 - Adel Bibi
 - Hasan Hammoud
-- Mohamed GaafarOn the Decision Boundaries of Neural Networks: A Tropical Geometry Perspective
+- Mohamed Gaafar
 - Bernard Ghanem
 
 # Author notes (optional)
