@@ -27,8 +27,8 @@ experience:
     company_url: https://www.ox.ac.uk/
     company_logo: org-gc
     location: California
-    date_start: '2021-10'
-    date_end: Present
+    date_start: '2021-10-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
