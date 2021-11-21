@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Research Internship
     company: University of Oxford
-    company_url: ''
+    company_url: https://www.ox.ac.uk/
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-10'
+    date_end: Present
     description: |2-
         Responsibilities include:
         
