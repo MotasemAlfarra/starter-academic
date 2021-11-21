@@ -30,7 +30,7 @@ publishDate: "2021-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *British Machine Vision Conference*
+publication: In *b*
 publication_short: In *BMVC'21*
 
 abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that  Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection: from semantics to robustness. To do so, we provide a robustness certificate for distance-based classification models (clustering-based classifiers). Moreover, we show that this certificate is tight, and we leverage it to propose ClusTR (Clustering Training for Robustness), a clustering-based and adversary-free training framework to learn robust models. Interestingly, ClusTR outperforms adversarially-trained networks by up to 4\% under strong PGD attacks.
