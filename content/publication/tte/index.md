@@ -16,11 +16,11 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: "2020-01-01T00:00:00Z"
+date: "2021-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +29,8 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Workshop on Optimization for Machine Learning*
-publication_short: In *NeurIPSW'20*
+publication: In *Workshop on Adversarial Robustness in the Real World*
+publication_short: In *ICCVW'21*
 
 abstract: Deep learning models are prone to being fooled by imperceptible perturbations known as adversarial attacks. In this work, we study how equipping models with Test-time Transformation Ensembling (TTE) can work as a reliable defense against such attacks. While transforming the input data, both at train and test times, is known to enhance model performance, its effects on adversarial robustness have not been studied. Here, we present a comprehensive empirical study of the impact of TTE, in the form of widely-used image transforms, on adversarial robustness. We show that TTE consistently improves model robustness against a variety of powerful attacks without any need for re-training, and that this improvement comes at virtually no trade-off with accuracy on clean samples. Finally, we show that the benefits of TTE transfer even to the certified robustness domain, in which TTE provides sizable and consistent improvements.
 
