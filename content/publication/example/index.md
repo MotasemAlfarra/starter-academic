@@ -48,9 +48,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://link.springer.com/chapter/10.1007/978-3-030-58545-7_26
+#   url: https://arxiv.org/pdf/1912.05661.pdf
 
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-58545-7_26
+url_pdf: https://arxiv.org/pdf/1912.05661.pdf
 url_code: https://github.com/BCV-Uniandes/Gabor_Layers_for_Robustness
 url_dataset: ''
 url_poster: ''
