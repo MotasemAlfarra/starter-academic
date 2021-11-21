@@ -39,7 +39,7 @@ summary: We design the anti-adversary layer that enhances the robustness of pret
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
