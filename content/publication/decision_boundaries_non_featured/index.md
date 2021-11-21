@@ -6,10 +6,9 @@ title: "Rethinking Clustering for Robustness"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Juan C. Perez
 - Adel Bibi
-- Ali Thabet
-- Pablo Arbeláez
+- Hasan Hammoud
+- Mohamed Gaafar
 - Bernard Ghanem
 
 # Author notes (optional)
