@@ -1,5 +1,5 @@
 ---
-title: "Rethinking Clustering for Robustness"
+title: "On the Decision Boundaries of Neural Networks: A Tropical Geometry Perspective"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,7 +8,7 @@ authors:
 - admin
 - Adel Bibi
 - Hasan Hammoud
-- Mohamed Gaafar
+- Mohamed GaafarOn the Decision Boundaries of Neural Networks: A Tropical Geometry Perspective
 - Bernard Ghanem
 
 # Author notes (optional)
