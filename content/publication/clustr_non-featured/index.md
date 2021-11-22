@@ -46,9 +46,9 @@ featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://arxiv.org/pdf/2006.07682v2.pdf
+#   url: https://arxiv.org/pdf/2006.07682.pdf
 
-url_pdf: https://arxiv.org/pdf/2006.07682v2.pdf
+url_pdf: https://arxiv.org/pdf/2006.07682.pdf
 url_code: https://github.com/clustr-official-account/Rethinking-Clustering-for-Robustness
 url_dataset: ''
 url_poster: ''
