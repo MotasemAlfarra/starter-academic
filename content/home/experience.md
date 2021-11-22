@@ -29,7 +29,7 @@ experience:
     location: Oxford, UK
     date_start: '2021-10-01'
     date_end: ''
-    description: Research visit to the Torr Vision Group (TVG) supervised by prof. Philip Torr
+    description: Research visit to the Torr Vision Group (TVG) supervised by prof. Philip Torr.
         
   - title: Teacher Assistant
     company: KAUST
@@ -47,7 +47,7 @@ experience:
     location: Kuwait
     date_start: '2017-07-01'
     date_end: '2018-05-30'
-    description: Developed algorithms and implemented network simulations..
+    description: Developed algorithms and implemented network simulations.
 
 design:
   columns: '2'
