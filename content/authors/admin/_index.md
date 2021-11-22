@@ -7,6 +7,7 @@ interests:
   - Network Robustness and Certification
   - Randomized Smoothing
   - Continual Learning
+  - Federated Learning
   - Understanding Deep Neural Networks
   - Computer Vision and Machine Learning
 social:
