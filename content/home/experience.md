@@ -25,7 +25,7 @@ experience:
   - title: Research Internship
     company: University of Oxford
     company_url: https://www.ox.ac.uk/
-    company_logo: ''
+    company_logo: oxford
     location: Oxford, UK
     date_start: '2021-10-01'
     date_end: ''
