@@ -33,7 +33,7 @@ publication_types: ["1"]
 publication: In *British Machine Vision Conference*
 publication_short: In *BMVC'21*
 
-abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception.
+abstract: This paper studies how encouraging semantically-aligned features during deep neural network training can increase network robustness. Recent works observed that Adversarial Training leads to robust models, whose learnt features appear to correlate with human perception. Inspired by this connection from robustness to semantics, we study the complementary connection: from semantics to robustness.
 
 # Summary. An optional shortened abstract.
 summary: We analyze the effect of encouraging the learnt features from DNN to be more semantically meaningful through clustering on the PGD-Robustness of the DNN.
