@@ -42,7 +42,7 @@ summary: We extend randomized smoothing to anisotropic distributions and optimiz
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
