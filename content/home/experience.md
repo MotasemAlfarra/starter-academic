@@ -34,7 +34,7 @@ experience:
   - title: Teacher Assistant
     company: KAUST
     company_url: https://www.kaust.edu.sa/en
-    company_logo: ''
+    company_logo: kaust
     location: Saudi Arabia
     date_start: '2020-01-01'
     date_end: '2020-05-30'
@@ -43,7 +43,7 @@ experience:
   - title: Research Assistant
     company: Kuwait University
     company_url: http://kuweb.ku.edu.kw/ku/index.htm
-    company_logo: ''
+    company_logo: ku
     location: Kuwait
     date_start: '2017-07-01'
     date_end: '2018-05-30'
