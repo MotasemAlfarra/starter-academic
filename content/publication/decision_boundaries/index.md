@@ -40,7 +40,7 @@ summary: We characterizes the decision boundaries of neural networks using tropi
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
