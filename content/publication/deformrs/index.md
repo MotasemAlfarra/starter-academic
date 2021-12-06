@@ -33,7 +33,7 @@ publication_short: In *AAAI'22*
 abstract: Deep neural networks are vulnerable to input deformations in the form of vector fields of pixel displacements and to other parameterized geometric deformations e.g. translations, rotations, etc. Current input deformation certification methods either (i) do not scale to deep networks on large input datasets, or (ii) can only certify a specific class of deformations, e.g. only rotations. We reformulate certification in randomized smoothing setting for both general vector field and parameterized deformations and propose DeformRS-VF and DeformRS-Par, respectively. Our new formulation scales to large networks on large input datasets. For instance, DeformRS-Par certifies rich deformations, covering translations, rotations, scaling, affine deformations, and other visually aligned deformations such as ones parameterized by Discrete-Cosine-Transform basis. Extensive experiments on MNIST, CIFAR10 and ImageNet show that DeformRS-Par outperforms existing state-of-the-art in certified accuracy, e.g. improved certified accuracy of 6% against perturbed rotations in the set [-10,10] degrees on ImageNet.
 
 # Summary. An optional shortened abstract.
-summary: We extend randomized smoothing to certify image deformations.
+summary: We extend randomized smoothing to certify image deformations such as rotation, translation, scaling, and affine.
 
 tags: []
 
