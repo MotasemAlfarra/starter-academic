@@ -66,11 +66,11 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
   post: true
   project: true
-  publication: true
+  publication: false
   event: true
 reading_time: true
 section_pager: false
