@@ -29,7 +29,7 @@ experience:
     location: Oxford, United Kingdom
     date_start: '2021-10-01'
     date_end: ''
-    description: Research visit to the Torr Vision Group (TVG) supervised by [prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
+    description: Research visit to the Torr Vision Group (TVG) supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
         
   - title: Teacher Assistant
     company: KAUST
