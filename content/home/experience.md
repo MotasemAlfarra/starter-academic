@@ -26,7 +26,7 @@ experience:
     company: University of Oxford
     company_url: https://www.ox.ac.uk/
     company_logo: oxford
-    location: Oxford, UK
+    location: Oxford, United Kingdom
     date_start: '2021-10-01'
     date_end: ''
     description: Research visit to the Torr Vision Group (TVG) supervised by [prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
