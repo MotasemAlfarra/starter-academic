@@ -50,14 +50,7 @@ experience:
     date_end: '2018-05-30'
     description: Developed algorithms and implemented network simulations.
       
-  - title: Guest Lecturer
-    company: Universidad Panamericana
-    company_url: 
-    company_logo: pan
-    location: Mexico
-    date_start: '2020-07-01'
-    date_end: '2020-08-30'
-    description: Title: Adversarial Attacks and Network Robustness.
+
 
 design:
   columns: '2'
