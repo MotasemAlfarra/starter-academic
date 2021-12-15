@@ -52,7 +52,7 @@ experience:
       
   - title: Guest Lecturer
     company: Universidad Panamericana
-    company_url: https://www.up.edu.mx/es/mexico
+    company_url: 
     company_logo: pan
     location: Mexico
     date_start: '2020-07-01'
