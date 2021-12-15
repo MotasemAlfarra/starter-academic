@@ -31,6 +31,15 @@ experience:
     date_end: ''
     description: Research visit to the Torr Vision Group (TVG) supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
   
+  - title: Guest Lecturer
+    company: Universidad Panamericana
+    company_url: https://www.up.edu.mx/es/mexico
+    company_logo: pan
+    location: Mexico
+    date_start: '2020-07-10'
+    date_end: '2020-07-11'
+    description: Title: Adversarial Attacks and Network Robustness.
+    
   - title: Teacher Assistant
     company: KAUST
     company_url: https://www.kaust.edu.sa/en
