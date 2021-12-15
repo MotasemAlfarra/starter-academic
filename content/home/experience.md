@@ -52,9 +52,9 @@ experience:
     
   - title: Guest Lecturer
     company: Universidad Panamericana
-    company_url: http://kuweb.ku.edu.kw/ku/index.htm
-    company_logo: ku
-    location: Kuwait
+    company_url: https://www.up.edu.mx/es/mexico
+    company_logo: pan
+    location: Mexico
     date_start: '2017-07-01'
     date_end: '2018-05-30'
     description: Developed algorithms and implemented network simulations.
