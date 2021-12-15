@@ -37,7 +37,7 @@ experience:
     company_logo: pan
     location: Mexico
     date_start: '2020-07-10'
-    date_end: '2020-07-11'
+    date_end: '2020-08-11'
     description: Title: Adversarial Attacks and Network Robustness.
     
   - title: Teacher Assistant
