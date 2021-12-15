@@ -50,8 +50,8 @@ experience:
     date_end: '2018-05-30'
     description: Developed algorithms and implemented network simulations.
     
-  - title: Research Assistant
-    company: Kuwait University
+  - title: Guest Lecturer
+    company: Universidad Panamericana
     company_url: http://kuweb.ku.edu.kw/ku/index.htm
     company_logo: ku
     location: Kuwait
