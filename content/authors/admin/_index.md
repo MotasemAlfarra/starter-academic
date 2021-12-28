@@ -23,6 +23,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/MotasemAlfarra
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/motasem-alfarra-39b318123/
 
 organizations:
   - name: KAUST
