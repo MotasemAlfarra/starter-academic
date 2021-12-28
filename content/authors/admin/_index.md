@@ -8,7 +8,6 @@ interests:
   - Randomized Smoothing
   - Continual Learning
   - Federated Learning
-  - Understanding Neural Networks
   - Computer Vision and Machine Learning
 social:
   - icon: envelope
