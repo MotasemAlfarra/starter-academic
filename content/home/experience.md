@@ -45,8 +45,8 @@ experience:
     company_url: https://www.kaust.edu.sa/en
     company_logo: kaust
     location: Saudi Arabia
-    date_start: '2020-01-01'
-    date_end: '2020-05-30'
+    date_start: '2021-01-01'
+    date_end: '2021-05-30'
     description: I was a TA for the Ph.D course "Introduction to Computer Vision".
     
   - title: Research Assistant
