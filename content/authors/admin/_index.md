@@ -2,7 +2,7 @@
 title: Motasem Alfarra
 role: PhD Student - Electrical and Computer Engineering
 avatar_filename: avatar.jpg
-bio: I am a Ph.D. student at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications.
+bio: I am a Ph.D. student at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications.
 interests:
   - Adversarial Robustness
   - Randomized Smoothing
@@ -44,7 +44,7 @@ email: motasem.alfarra@kaust.edu.sa
 superuser: true
 highlight_name: false
 ---
-I am a Ph.D. student at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications.
+I am a Ph.D. student at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
