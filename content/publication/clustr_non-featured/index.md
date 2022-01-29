@@ -53,7 +53,7 @@ url_code: https://github.com/clustr-official-account/Rethinking-Clustering-for-R
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/1LAA-66buU9tlRHQPETU99WKwIxF3SxLEufKuCa6D-wc/edit?usp=sharing
 url_source: ''
 url_video: ''
 
