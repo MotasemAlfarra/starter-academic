@@ -51,7 +51,7 @@ url_code: https://github.com/MotasemAlfarra/Combating-Adversaries-with-Anti-Adve
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/1Ty4SHaDj-mtDs4X1v3VpBelvRLUI5ZePO3BviCmOqFU/edit?usp=sharing
 url_source: ''
 url_video: ''
 
