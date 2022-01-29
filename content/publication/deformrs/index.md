@@ -52,7 +52,7 @@ url_code: https://github.com/MotasemAlfarra/DeformRS
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/13Lk_naMgchVoXE7oaQ6IQnn-Bx8fm9hZ/edit?usp=sharing&ouid=103008625988261101687&rtpof=true&sd=true
 url_source: ''
 url_video: ''
 
