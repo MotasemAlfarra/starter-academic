@@ -49,7 +49,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2103.14347.pdf
 url_code: https://github.com/MotasemAlfarra/Combating-Adversaries-with-Anti-Adversaries
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/15cUqwLKj3RQwONR89CWRYCO9zTSSZUOA/view?usp=sharing
 url_project: ''
 url_slides: https://docs.google.com/presentation/d/1Ty4SHaDj-mtDs4X1v3VpBelvRLUI5ZePO3BviCmOqFU/edit?usp=sharing
 url_source: ''
