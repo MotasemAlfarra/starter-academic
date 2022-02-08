@@ -50,7 +50,7 @@ featured: false
 url_pdf: https://openaccess.thecvf.com/content/ICCV2021W/AROW/papers/Perez_Enhancing_Adversarial_Robustness_via_Test-Time_Transformation_Ensembling_ICCVW_2021_paper.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1AlsPDR5UzMYHoE4oI05sOM_kQv_XrsSf/view?usp=sharing
 url_project: ''
 url_slides: ''
 url_source: ''
