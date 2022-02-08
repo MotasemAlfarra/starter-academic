@@ -55,7 +55,7 @@ url_code: https://github.com/BCV-Uniandes/Gabor_Layers_for_Robustness
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://drive.google.com/file/d/14A5NSjmAv54UPBs0T8CcQcZ6QyKBoYZQ/view?usp=sharing
 url_source: ''
 url_video: ''
 
