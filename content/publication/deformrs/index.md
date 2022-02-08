@@ -50,7 +50,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2107.00996.pdf
 url_code: https://github.com/MotasemAlfarra/DeformRS
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1uRR4f_kcK8qj-jsT5da8N9vz1Dwoc3WN/view?usp=sharing
 url_project: ''
 url_slides: https://docs.google.com/presentation/d/13Lk_naMgchVoXE7oaQ6IQnn-Bx8fm9hZ/edit?usp=sharing&ouid=103008625988261101687&rtpof=true&sd=true
 url_source: ''
