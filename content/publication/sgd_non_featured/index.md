@@ -48,7 +48,7 @@ featured: false
 url_pdf: https://opt-ml.org/papers/2020/paper_10.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1p_6yeQ3oMVZ1J0J8G5jdd1HfxtVBFkre/view?usp=sharing
 url_project: ''
 url_slides: ''
 url_source: ''
