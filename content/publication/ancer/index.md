@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2107.00996.pdf
 
-url_pdf: https://arxiv.org/pdf/2012.04351.pdf
+url_pdf: https://arxiv.org/pdf/2107.04570.pdf
 url_code: https://github.com/MotasemAlfarra/ANCER
 url_dataset: ''
 url_poster: ''
