@@ -7,7 +7,6 @@ interests:
   - Adversarial Robustness
   - Randomized Smoothing
   - Continual Learning
-  - Federated Learning
   - Computer Vision and Machine Learning
 social:
   - icon: envelope
