@@ -6,7 +6,7 @@ title: "3DeformRS: Certifying Spatial Deformations on Point Clouds"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Gabriel Pérez S.
+- Gabriel Pérez
 - Juan C. Pérez
 - Silvio Giancola 
 - Bernard Ghanem
