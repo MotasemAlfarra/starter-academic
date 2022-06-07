@@ -9,7 +9,7 @@ authors:
 - Slavomir Hanzely
 - Alyazeed Albasyoni
 - Bernard Ghanem
-- Peter Richtarik
+- Peter Richtàrik
 
 # Author notes (optional)
 author_notes: ''

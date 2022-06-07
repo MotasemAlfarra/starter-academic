@@ -8,7 +8,7 @@ authors:
 - admin
 - Juan C. Perez
 - Egor Shulgin
-- Peter Richtarik
+- Peter Richtàrik
 - Bernard Ghanem
 
 # Author notes (optional)
