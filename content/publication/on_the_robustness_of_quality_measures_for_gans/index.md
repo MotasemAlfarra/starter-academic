@@ -40,7 +40,7 @@ summary: We assess the adversarial robustness of Inception Score and Frechet Inc
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
