@@ -16,21 +16,21 @@ authors:
 author_notes:
 - ''
 
-date: "2022-02-02T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-02T00:00:00Z"
+publishDate: "2022-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arxiv*
-publication_short: In *arxiv*
+publication: In *European Conference in Computer Vision*
+publication_short: In *ECCV*
 
 abstract: This work evaluates the robustness of quality measures of generative models such as Inception Score (IS) and Fréchet Inception Distance (FID). Analogous to the vulnerability of deep models against a variety of adversarial attacks, we show that such metrics can also be manipulated by additive pixel perturbations.Our experiments indicate that one can generate a distribution of images with very high scores but low perceptual quality.Conversely, one can optimize for small imperceptible perturbations that, when added to real world images, deteriorate their scores.Furthermore, we extend our evaluation to generative models themselves, including the state of the art network StyleGANv2.We show the vulnerability of both the generative model and the FID against additive perturbations in the latent space.Finally, we show that the FID can be robustified by directly replacing the Inception model by a robustly trained Inception. We validate the effectiveness of the robustified metric through extensive experiments, which show that it is more robust against manipulation.
 
