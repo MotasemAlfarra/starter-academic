@@ -49,7 +49,7 @@ featured: false
 url_pdf: https://arxiv.org/pdf/2012.04351.pdf
 url_code: https://github.com/MotasemAlfarra/Data_Dependent_Randomized_Smoothing
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1VsG66ZQlGYb_ENsnJqpLxb7S75XkX-51/view
 url_project: ''
 url_slides: ''
 url_source: ''
