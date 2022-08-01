@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Internship
+    company: Intel
+    company_url: https://www.intel.com/content/www/us/en/homepage.html
+    company_logo: intel
+    location: Münich, Germany
+    date_start: '2022-08-01'
+    date_end: ''
+    description: Research internship at the Embodied AI Lab at Intel supervised by [Matthias Müller](https://matthias.pw/).
+    
+  - title: Research Internship
     company: University of Oxford
     company_url: https://www.ox.ac.uk/
     company_logo: oxford
