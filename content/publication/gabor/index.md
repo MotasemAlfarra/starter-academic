@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/1912.05661.pdf
 
-url_pdf: https://arxiv.org/pdf/1912.05661.pdf
+url_pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540426.pdf
 url_code: https://github.com/BCV-Uniandes/Gabor_Layers_for_Robustness
 url_dataset: ''
 url_poster: ''
