@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: https://opt-ml.org/papers/2020/paper_10.pdf
 
-url_pdf: https://arxiv.org/pdf/2204.05687.pdf
+url_pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/S._3DeformRS_Certifying_Spatial_Deformations_on_Point_Clouds_CVPR_2022_paper.pdf
 url_code: https://github.com/gaperezsa/3DeformRS
 url_dataset: ''
 url_poster: ''
