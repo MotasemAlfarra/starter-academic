@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2006.07682.pdf
 
-url_pdf: https://arxiv.org/pdf/2006.07682.pdf
+url_pdf: https://www.bmvc2021-virtualconference.com/assets/papers/0424.pdf
 url_code: https://github.com/clustr-official-account/Rethinking-Clustering-for-Robustness
 url_dataset: ''
 url_poster: ''
