@@ -53,9 +53,9 @@ url_code: https://github.com/gaperezsa/3DeformRS
 url_dataset: ''
 url_poster: https://drive.google.com/file/d/14t9QbIqCgVBOEo4Qv8CakcschXo4XuPT/view?usp=sharing
 url_project: ''
-url_slides: ''
+url_slides: https://drive.google.com/file/d/1Sr8IE7CqYbFM7Qy81G0m00Ig7T-EZoQp/view?usp=sharing
 url_source: ''
-url_video: ''
+url_video: https://drive.google.com/file/d/189G3-1jw4-ymzoibxjTg0iZ0bzPK3Adi/view?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
