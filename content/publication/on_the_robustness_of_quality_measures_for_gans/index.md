@@ -50,7 +50,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2201.13019.pdf
 url_code: https://github.com/MotasemAlfarra/R-FID-Robustness-of-Quality-Measures-for-GANs
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1dbmOCDDQjis6AFuvy0GKpKg7ZOp7Hz2C/view?usp=sharing
 url_project: ''
 url_slides: ''
 url_source: ''
