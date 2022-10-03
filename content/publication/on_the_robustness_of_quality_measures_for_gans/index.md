@@ -52,7 +52,7 @@ url_code: https://github.com/MotasemAlfarra/R-FID-Robustness-of-Quality-Measures
 url_dataset: ''
 url_poster: https://drive.google.com/file/d/1dbmOCDDQjis6AFuvy0GKpKg7ZOp7Hz2C/view?usp=sharing
 url_project: ''
-url_slides: ''
+url_slides: https://drive.google.com/file/d/1JQx7vw9CUrvqhRGgBSnk5ou6eiGquZda/view?usp=sharing
 url_source: ''
 url_video: ''
 
