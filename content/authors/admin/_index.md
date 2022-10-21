@@ -4,9 +4,9 @@ role: PhD Candidate - Electrical and Computer Engineering
 avatar_filename: avatar.jpg
 bio: I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications. Currently, I am on a research internship at Intel in Munich, Germany working on continual learning.
 interests:
+  - Continual Learning
   - Adversarial Robustness
   - Randomized Smoothing
-  - Continual Learning
   - Federated Learning
   - Computer Vision and Machine Learning
 social:
