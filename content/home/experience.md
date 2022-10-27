@@ -38,7 +38,7 @@ experience:
     location: Oxford, United Kingdom
     date_start: '2021-10-01'
     date_end: '2022-02-01'
-    description: Research visit to the Torr Vision Group (TVG) supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
+    description: Research visit to the Torr Vision Group ([TVG](https://torrvision.com/)) supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
 
   - title: Guest Lecturer
     company: Universidad Panamericana
