@@ -47,10 +47,10 @@ featured: false
 
 url_pdf: https://arxiv.org/pdf/2206.02535.pdf
 url_code: https://github.com/MotasemAlfarra/federated-learning-with-pytorch
-url_dataset: ''
+url_dataset: https://drive.google.com/file/d/161DK3kGigaClhGXdz7NpC-TX7yxd6zKM/view?usp=sharing
 url_poster: https://drive.google.com/file/d/161DK3kGigaClhGXdz7NpC-TX7yxd6zKM/view?usp=sharing
 url_project: ''
-url_slides: ''
+url_slides: https://drive.google.com/file/d/161DK3kGigaClhGXdz7NpC-TX7yxd6zKM/view?usp=sharing
 url_source: ''
 url_video: ''
 
