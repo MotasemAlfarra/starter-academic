@@ -30,7 +30,7 @@ publication_types: ["1"]
 publication: In *International Workshop in Federated Learning - NeurIPS*
 publication_short: In *NeurIPSW'22*
 
-abstract: Federated learning has recently gained significant attention and popularity due to its effectiveness in training machine learning models on distributed data privately. However, as in the single-node supervised learning setup, models trained in federated learning suffer from vulnerability to imperceptible input transformations known as adversarial attacks, questioning their deployment in security-related applications. In this work, we study the interplay between federated training, personalization, and certified robustness. In particular, we deploy randomized smoothing, a widely-used and scalable certification method, to certify deep networks trained on a federated setup against input perturbations and transformations. We find that the simple federated averaging technique is effective in building not only more accurate, but also more certifiably-robust models, compared to training solely on local data. We further analyze personalization, a popular technique in federated training that increases the model's bias towards local data, on robustness. We show several advantages of personalization over both~(that is, only training on local data and federated training) in building more robust models with faster training. Finally, we explore the robustness of mixtures of global and local~(\ie personalized) models, and find that the robustness of local models degrades as they diverge from the global model
+abstract: Federated learning has recently gained significant attention and popularity due to its effectiveness in training machine learning models on distributed data privately. However, as in the single-node supervised learning setup, models trained in federated learning suffer from vulnerability to imperceptible input transformations known as adversarial attacks, questioning their deployment in security-related applications. In this work, we study the interplay between federated training, personalization, and certified robustness. In particular, we deploy randomized smoothing, a widely-used and scalable certification method, to certify deep networks trained on a federated setup against input perturbations and transformations. We find that the simple federated averaging technique is effective in building not only more accurate, but also more certifiably-robust models, compared to training solely on local data. We further analyze personalization, a popular technique in federated training that increases the model's bias towards local data, on robustness. We show several advantages of personalization over both~(that is, only training on local data and federated training) in building more robust models with faster training. Finally, we explore the robustness of mixtures of global and local~(\ie personalized) models, and find that the robustness of local models degrades as they diverge from the global model.
 
 # Summary. An optional shortened abstract.
 summary: We assess the certified robustness of models trained in a federated fashion.
@@ -47,10 +47,10 @@ featured: false
 
 url_pdf: https://arxiv.org/pdf/2206.02535.pdf
 url_code: https://github.com/MotasemAlfarra/federated-learning-with-pytorch
-url_dataset: https://drive.google.com/file/d/161DK3kGigaClhGXdz7NpC-TX7yxd6zKM/view?usp=sharing
+url_dataset: ''
 url_poster: https://drive.google.com/file/d/161DK3kGigaClhGXdz7NpC-TX7yxd6zKM/view?usp=sharing
 url_project: ''
-url_slides: https://drive.google.com/file/d/161DK3kGigaClhGXdz7NpC-TX7yxd6zKM/view?usp=sharing
+url_slides: ''
 url_source: ''
 url_video: ''
 
