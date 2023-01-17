@@ -28,7 +28,7 @@ experience:
     company_logo: intel
     location: Münich, Germany
     date_start: '2022-08-01'
-    date_end: ''
+    date_end: '2023-01-31'
     description: Research internship at the Embodied AI Lab at Intel supervised by [Matthias Müller](https://matthias.pw/).
     
   - title: Research Internship
