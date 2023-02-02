@@ -39,15 +39,6 @@ experience:
     date_start: '2021-10-01'
     date_end: '2022-02-01'
     description: Research visit to the Torr Vision Group ([TVG](https://torrvision.com/)) supervised by [Prof. Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en).
-
-  - title: Guest Lecturer
-    company: Universidad Panamericana
-    company_url: https://www.up.edu.mx/es/mexico
-    company_logo: pan
-    location: Mexico
-    date_start: '2020-07-01'
-    date_end: '2020-07-01'
-    description: I gave one lecture titled "Adversarial Attacks and Network Robustness".
     
   - title: Teacher Assistant
     company: KAUST
@@ -57,6 +48,15 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-05-30'
     description: I was a TA for the Ph.D course "Introduction to Computer Vision".
+
+  - title: Guest Lecturer
+    company: Universidad Panamericana
+    company_url: https://www.up.edu.mx/es/mexico
+    company_logo: pan
+    location: Mexico
+    date_start: '2020-07-01'
+    date_end: '2020-07-01'
+    description: I gave one lecture titled "Adversarial Attacks and Network Robustness".
     
   - title: Research Assistant
     company: Kuwait University
