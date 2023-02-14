@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2107.00996.pdf
 
-url_pdf: https://arxiv.org/pdf/2212.04842.pdf
+url_pdf: https://arxiv.org/pdf/2302.01047.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
