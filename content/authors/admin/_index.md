@@ -2,12 +2,11 @@
 title: Motasem Alfarra
 role: PhD Candidate - Electrical and Computer Engineering
 avatar_filename: avatar.jpg
-bio: I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in building robust neural networks and leveraging robust models for different applications. Currently, I am on a research internship at Intel in Munich, Germany working on continual learning.
+bio: I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in continual learning and test time adaptation. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications.  
 interests:
+  - Tet Time Adaptation
   - Continual Learning
   - Adversarial Robustness
-  - Randomized Smoothing
-  - Federated Learning
   - Computer Vision and Machine Learning
 social:
   - icon: envelope
