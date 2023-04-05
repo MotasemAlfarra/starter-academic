@@ -28,8 +28,8 @@ publishDate: "2022-12-12T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arxiv*
-publication_short: In *arxiv*
+publication: In *Workshop on Continual Learning - CVPR*
+publication_short: In *CVPRW'23*
 
 abstract: Continual Learning is a step towards lifelong intelligence where models continuously learn from recently collected data without forgetting previous knowledge. Existing continual learning approaches mostly focus on image classification in the class-incremental setup with clear task boundaries and unlimited computational budget. This work explores Online Domain-Incremental Continual Segmentation~(ODICS), a real-world problem that arises in many applications, \eg, autonomous driving. In ODICS, the model is continually presented with batches of densely labeled images from different domains; computation is limited and no information about the task boundaries is available. In autonomous driving, this may correspond to the realistic scenario of training a segmentation model over time on a sequence of cities. We analyze several existing continual learning methods and show that they do not perform well in this setting despite working well in class-incremental segmentation. We propose SimCS, a parameter-free method complementary to existing ones that leverages simulated data as a continual learning regularizer. Extensive experiments show consistent improvements over different types of continual learning methods that use regularizers and even replay.
 
