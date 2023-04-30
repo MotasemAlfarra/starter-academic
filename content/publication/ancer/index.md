@@ -53,7 +53,7 @@ url_pdf: https://arxiv.org/pdf/2107.04570.pdf
 url_code: https://github.com/MotasemAlfarra/ANCER
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://www.notion.so/fgirbal/ANCER-Anisotropic-Certification-via-Sample-wise-Volume-Maximization-6a74a84feb094206a87a4e1e2f92cd95
 url_slides: ''
 url_source: ''
 url_video: ''
