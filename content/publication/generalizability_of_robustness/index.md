@@ -28,7 +28,7 @@ publishDate: "2023-05-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Transactions of Machine Learning Research [Featured]*
+publication: In *Transactions on Machine Learning Research [Featured]*
 publication_short: In *TMLR [Featured]*
 
 abstract: Recent progress in empirical and certified robustness promises to deliver reliable and deployable Deep Neural Networks (DNNs). Despite that success, most existing evaluations of DNN robustness have been done on images sampled from the same distribution that the model was trained on. Yet, in the real world, DNNs may be deployed in dynamic environments that exhibit significant distribution shifts. In this work, we take a first step towards thoroughly investigating the interplay between empirical and certified adversarial robustness on one hand and domain generalization on another. To do so, we train robust models on multiple domains and evaluate their accuracy and robustness on an unseen domain. We observe that (1) both empirical and certified robustness generalize to unseen domains, and (2) the level of generalizability does not correlate well with input visual similarity, measured by the FID between source and target domains. We also extend our study to cover a real-world medical application, in which adversarial augmentation enhances both the robustness and generalization accuracy in unseen domains.
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2107.00996.pdf
 
-url_pdf: https://arxiv.org/pdf/2209.15042.pdf
+url_pdf: https://openreview.net/forum?id=XNFo3dQiCJ
 url_code: ''
 url_dataset: ''
 url_poster: ''
