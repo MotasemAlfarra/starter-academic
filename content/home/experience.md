@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Internship
-    company: Qualcomm
+    company: Qualcomm AI Research
     company_url: https://www.qualcomm.com/research/artificial-intelligence/ai-research
     company_logo: qualcomm
     location: Amsterdam, Netherlands
