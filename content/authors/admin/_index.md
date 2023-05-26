@@ -43,7 +43,7 @@ email: motasem.alfarra@kaust.edu.sa
 superuser: true
 highlight_name: false
 ---
-I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in continual learning and test time adaptation. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications.  
+I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in continual learning and test time adaptation. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications. Currently, I am a research intern at Qualcomm AI Research in Amsterdam.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
