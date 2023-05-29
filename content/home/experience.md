@@ -29,7 +29,7 @@ experience:
     location: Amsterdam, Netherlands
     date_start: '2023-05-22'
     date_end: '2023-09-30'
-    description: Research internship at the Qualcomm AI Research.
+    description: Research internship at Qualcomm AI Research.
 
   - title: Research Internship
     company: Intel
