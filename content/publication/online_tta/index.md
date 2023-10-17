@@ -44,7 +44,7 @@ summary: We propose a novel online evaluation protocol for Test Time Adaptation 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
