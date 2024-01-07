@@ -39,7 +39,7 @@ summary: We leverage simulated data to mitigate forgetting in domain incremental
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
