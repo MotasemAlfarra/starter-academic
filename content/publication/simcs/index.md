@@ -49,7 +49,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2211.16234.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/16dkuml1fSbSreBg_Kt4xrqFTTXArIrCU/view?usp=sharing
 url_project: ''
 url_slides: ''
 url_source: ''
