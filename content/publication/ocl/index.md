@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Evaluation in Online Continual Learning: A New Paradigm"
+title: "Real-Time Evaluation in Online Continual Learning: A New Hope"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -52,7 +52,7 @@ featured: false
 url_pdf: https://arxiv.org/pdf/2302.01047.pdf
 url_code: https://github.com/Yasir-Ghunaim/RealtimeOCL
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1vASeK18Wqp5LaiUMyvAf89y0nUPLfTC7/view?usp=share_link
 url_project: ''
 url_slides: ''
 url_source: ''
