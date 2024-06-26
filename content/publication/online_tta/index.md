@@ -54,7 +54,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2304.04795.pdf
 url_code: https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation
 url_dataset: ''
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1qupLg3mAZ9GRGxFjKeHOwO22DC8LR6rQ/view?usp=sharing
 url_project: ''
 url_slides: ''
 url_source: ''
