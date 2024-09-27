@@ -1,8 +1,8 @@
 ---
 title: Motasem Alfarra
-role: PhD Candidate - Electrical and Computer Engineering
+role: Researcher at Qualcomm AI Research, Amsterdam, Netherlands
 avatar_filename: avatar.jpg
-bio: I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in test-time adaptation and continual learning. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications.
+bio: I am a researcher at Qualcomm AI Research in Amsterdam, Netherlands. I obtained my Ph.D. in Electrical and Computer Engineering from KAUST in Saudi Arabia advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I also obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in test-time adaptation and continual learning. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications.
 interests:
   - Test Time Adaptation
   - Continual Learning
@@ -43,6 +43,6 @@ email: motasem.alfarra@kaust.edu.sa
 superuser: true
 highlight_name: false
 ---
-I am a Ph.D. candidate at KAUST in Saudi Arabia. I am part of the Image and Video Understanding Lab (IVUL) advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in test-time adaptation and continual learning. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications.
+I am a researcher at Qualcomm AI Research in Amsterdam, Netherlands. I obtained my Ph.D. in Electrical and Computer Engineering from KAUST in Saudi Arabia advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/). I also obtained my M.Sc degree in Electrical Engineering from KAUST, and my undergraduate degree in Electrical Engineering from Kuwait University. I am interested in test-time adaptation and continual learning. Previously, I worked on assessing and enhancing network robustness and leveraging robust models for different applications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
