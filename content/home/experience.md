@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Researcher
+    company: Qualcomm AI Research
+    company_url: https://www.qualcomm.com/research/artificial-intelligence/ai-research
+    company_logo: qualcomm
+    location: Amsterdam, Netherlands
+    date_start: '2024-09-16'
+    date_end: ''
+  
   - title: Research Internship
     company: Qualcomm AI Research
     company_url: https://www.qualcomm.com/research/artificial-intelligence/ai-research
@@ -29,7 +37,7 @@ experience:
     location: Amsterdam, Netherlands
     date_start: '2023-05-22'
     date_end: '2023-09-30'
-    description: Research internship at the federated learning team in Qualcomm AI Research.
+    description: Research internship at the distributed learning team in Qualcomm AI Research.
 
   - title: Research Internship
     company: Intel
