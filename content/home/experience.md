@@ -28,7 +28,8 @@ experience:
     company_logo: qualcomm
     location: Amsterdam, Netherlands
     date_start: '2024-09-16'
-    date_end: ''
+    date_end:
+    description: Research Scienctist at Qualcomm AI Research, Amsterdam.
   
   - title: Research Internship
     company: Qualcomm AI Research
