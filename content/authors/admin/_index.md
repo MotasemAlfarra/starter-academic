@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: KAUST
-      year: 2020-Present
+      year: 2020-2024
     - course: MSc in Electrical Engineering
       institution: KAUST
       year: 2019-2020
