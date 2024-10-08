@@ -20,17 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: motasem.alfarra@kaust.edu.sa
+email: motasem.alfarra@kaust.edu.sa, malfarra@qti.qualcomm.com
 address:
-  street: KAUST
-  city: Thuwal
-  postcode: '23955'
-  country: Saudi Arabia
-  country_code: KSA
+  street: Science Park
+  city: Amsterdam
+  postcode: '1098 XH'
+  country: Netherlands
+  country_code: NL
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Building 1 - level 2 - Desk 2106-WS14
+  latitude: '52.355651'
+  longitude: '4.954312'
+directions: Matrix 1 Building - Science Park, Amsterdam, Netherlands
 
 # Site header
 
