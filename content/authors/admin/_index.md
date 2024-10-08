@@ -39,7 +39,7 @@ education:
     - course: BSc in Electrical Engineering
       institution: Kuwait University
       year: 2014-2018
-email: motasem.alfarra@kaust.edu.sa
+email: motasem.alfarra@kaust.edu.sa, malfarra@qti.qualcomm.com
 superuser: true
 highlight_name: false
 ---
