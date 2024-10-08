@@ -26,14 +26,14 @@ social:
     link: https://www.linkedin.com/in/motasem-alfarra-39b318123/
 
 organizations:
-  - name: KAUST
-    url: https://www.kaust.edu.sa/en
+  - name: Qualcomm AI Research
+    url: https://www.qualcomm.com/research/artificial-intelligence/ai-research
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: KAUST
       year: 2020-2024
-    - course: MSc in Electrical Engineering
+    - course: MSc in Electrical and Computer Engineering
       institution: KAUST
       year: 2019-2020
     - course: BSc in Electrical Engineering
