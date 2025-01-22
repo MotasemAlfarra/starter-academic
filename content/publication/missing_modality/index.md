@@ -14,21 +14,21 @@ authors:
 author_notes: ''
 
 
-date: "2024-07-01T00:00:00Z"
+date: "2025-01-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-01T00:00:00Z"
+publishDate: "2025-07-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["8"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arxiv*
-publication_short: In *arxiv*
+publication: In *International Conference on Learning Representations*
+publication_short: In *ICLR*
 
 abstract: Understanding videos that contain multiple modalities is crucial, especially in egocentric videos, where combining various sensory inputs significantly improves tasks like action recognition and moment localization. However, real-world applications often face challenges with incomplete modalities due to privacy concerns, efficiency needs, or hardware issues. Current methods, while effective, often necessitate retraining the model entirely to handle missing modalities, making them computationally intensive, particularly with large training datasets. In this study, we propose a novel approach to address this issue at test time without requiring retraining. We frame the problem as a test-time adaptation task, where the model adjusts to the available unlabeled data at test time. Our method, MiDl~(Mutual information with self-Distillation), encourages the model to be insensitive to the specific modality source present during testing by minimizing the mutual information between the prediction and the available modality. Additionally, we incorporate self-distillation to maintain the model's original performance when both modalities are available. MiDl represents the first self-supervised, online solution for handling missing modalities exclusively at test time. Through experiments with various pretrained models and datasets, MiDl demonstrates substantial performance improvement without the need for retraining.
 
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2107.00996.pdf
 
-url_pdf: https://arxiv.org/pdf/2404.15161
+url_pdf: https://openreview.net/forum?id=1L52bHEL5d&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)
 url_code: ''
 url_dataset: ''
 url_poster: ''
