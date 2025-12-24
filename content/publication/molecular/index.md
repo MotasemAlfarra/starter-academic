@@ -47,7 +47,7 @@ featured: False
 #   url: https://opt-ml.org/papers/2020/paper_10.pdf
 
 url_pdf: https://openaccess.thecvf.com/content/CVPR2025W/LXCV/papers/Ghunaim_Towards_Faster_and_More_Compact_Foundation_Models_for_Molecular_Property_CVPRW_2025_paper.pdf
-url_code: github. com/Yasir-Ghunaim/efficient-jmp
+url_code: https://github.com/Yasir-Ghunaim/efficient-jmp
 url_dataset: ''
 url_poster: ''
 url_slides: ''
